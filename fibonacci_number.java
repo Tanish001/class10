@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class fibonacci_number here.
+ * Write  a description of class fibonacci_number here.
  *
  * @author (your name)
  * @version (a version number or a date)
